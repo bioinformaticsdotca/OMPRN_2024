@@ -10,6 +10,11 @@ length: 2 days
 
 # Welcome <a id="welcome"></a>  
 
+Welcome to Bridging Pathology and Genomics: A Practical Workshop on NGS for Pathologists and Pathology Researchers 2024.  
+
+The course **schedule** can be found [here](https://bioinformaticsdotca.github.io/OMPRN_2024_schedule)
+
+
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
 ***
