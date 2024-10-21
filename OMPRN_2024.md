@@ -32,7 +32,11 @@ Coming soon!
 # Course Materials
 
 [Module 1 Slides: Sequencing Platforms and Technologies](https://drive.google.com/file/d/1r9hzIvPXYLLPJ-kx9kTrkvs_3KDU-wrq/view?usp=drive_link)  
+[Module 1 Lecture Recording](https://youtu.be/poTMfEiUC8E)  
+
 [Module 2 Slides: Laboratory Operations and Sample Preparation](https://drive.google.com/file/d/1ULHQ3i_4K1pxtZDLjHp6MNlP2ERoiAY7/view?usp=drive_link)  
+[Module 2 Lecture Recording](https://youtu.be/DK4_LR2jm6Q)  
+
 [Module 3 Slides: NGS Analysis](https://drive.google.com/file/d/11Ce2wKUm-QSeAZAATvHSzGgvroli0Sya/view?usp=drive_link)  
 
 [Discussion Exercise Slides](https://drive.google.com/file/d/1sNadI6qV3F4qquk6TuUtE_eJdrN-P4MO/view?usp=drive_link)  
