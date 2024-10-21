@@ -36,3 +36,5 @@ Coming soon!
 [Module 3 Slides: NGS Analysis](https://drive.google.com/file/d/11Ce2wKUm-QSeAZAATvHSzGgvroli0Sya/view?usp=drive_link)  
 
 [Discussion Exercise Slides](https://drive.google.com/file/d/1sNadI6qV3F4qquk6TuUtE_eJdrN-P4MO/view?usp=drive_link)  
+
+[OMPRN Analysis Exercises](https://docs.google.com/document/d/e/2PACX-1vSQffBTLi-SNqhXkJzO48__7ywx5DkgyokR9EwTJiQCQYq7kVjalxt6t7prm1uyE-_MPuihIG22UebM/pub)  
