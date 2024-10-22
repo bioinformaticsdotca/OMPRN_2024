@@ -42,3 +42,8 @@ Coming soon!
 [Discussion Exercise Slides](https://drive.google.com/file/d/1sNadI6qV3F4qquk6TuUtE_eJdrN-P4MO/view?usp=drive_link)  
 
 [OMPRN Analysis Exercises](https://docs.google.com/document/d/e/2PACX-1vSQffBTLi-SNqhXkJzO48__7ywx5DkgyokR9EwTJiQCQYq7kVjalxt6t7prm1uyE-_MPuihIG22UebM/pub)  
+
+[Module 4 Slides: Clinical Reporting pt. 1](https://drive.google.com/file/d/1Dh4dXQfpH5W3_eQBnix4F1is4HzrN7UY/view?usp=drive_link)  
+[Module 4 Slides: Clinical Reporting pt. 2](https://drive.google.com/file/d/11n2EjMQeQ3IepN1b9NbOy-qc8MljKR5v/view?usp=drive_link)  
+[Clinical Reporting Exercises](https://docs.google.com/document/d/1JpocfdnmDgvm2aoo5UVwXEVxY3S73L9bnCdjD7_RW6k/edit?usp=drive_link)   
+[Clinical Research Report](https://drive.google.com/file/d/1hQ7DWCqFRBMcFpoDIAUTOEPNbRLAL0XH/view?usp=drive_link)  
