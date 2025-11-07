@@ -1,14 +1,14 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.5)  20 AUG 2025 14:23
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.20)  6 NOV 2025 20:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **_main.tex
 (./_main.tex
 LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-04-14>
-(/Users/clin/Library/TinyTeX/texmf-dist/tex/latex/base/book.cls
+L3 programming layer <2025-04-29>
+(/Users/nhughes/Library/TinyTeX/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
-(/Users/clin/Library/TinyTeX/texmf-dist/tex/latex/base/bk10.clo
+(/Users/nhughes/Library/TinyTeX/texmf-dist/tex/latex/base/bk10.clo
 File: bk10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count268
@@ -23,20 +23,37 @@ File: bk10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen146
-) (/Users/clin/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2025/06/16 v2.17y AMS math features
+) (/Users/nhughes/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+(/Users/nhughes/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+(/Users/nhughes/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+) (/Users/nhughes/Library/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (/Users/nhughes/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip51
 For additional information on amsmath, use the `?' option.
-(/Users/clin/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+(/Users/nhughes/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
-(/Users/clin/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/Users/nhughes/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
 \ex@=\dimen147
-)) (/Users/clin/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (/Users/nhughes/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen148
-) (/Users/clin/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (/Users/nhughes/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count277
@@ -84,28 +101,28 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \multlinegap=\skip52
 \multlinetaggap=\skip53
 \mathdisplay@stack=\toks21
-LaTeX Info: Redefining \[ on input line 2949.
-LaTeX Info: Redefining \] on input line 2950.
-) (/Users/clin/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+) (/Users/nhughes/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-(/Users/clin/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/Users/nhughes/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/Users/clin/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+)) (/Users/nhughes/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
-) (/Users/clin/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty (/Users/clin/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2025-08-13 L3 programming layer (loader) 
+) (/Users/nhughes/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty (/Users/nhughes/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-10-24 L3 programming layer (loader) 
 
 ! LaTeX Error: Mismatched LaTeX support files detected.
 (LaTeX)        Loading 'expl3.sty' aborted!
 (LaTeX)        
 (LaTeX)        The L3 programming layer in the LaTeX format
-(LaTeX)        is dated 2025-04-14, but in your TeX tree the files require
-(LaTeX)        at least 2025-08-13.
+(LaTeX)        is dated 2025-04-29, but in your TeX tree the files require
+(LaTeX)        at least 2025-10-24.
 
 For immediate help type H <return>.
  ...                                              
@@ -125,11 +142,11 @@ later errors. Please ensure that your LaTeX format is correctly regenerated.
 
  
 Here is how much of TeX's memory you used:
- 1582 strings out of 472265
- 20224 string characters out of 5529237
- 416835 words of memory out of 5000000
- 28149 multiletter control sequences out of 15000+600000
+ 2199 strings out of 472247
+ 29027 string characters out of 5528703
+ 416968 words of memory out of 5000000
+ 28768 multiletter control sequences out of 15000+600000
  626833 words of font info for 41 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 56i,0n,72p,219b,42s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 56i,0n,72p,228b,42s stack positions out of 10000i,1000n,20000p,200000b,200000s
 No pages of output.
